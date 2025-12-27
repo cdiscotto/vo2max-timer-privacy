@@ -30,8 +30,8 @@ Their data practices are governed by their own privacy policies.
 - You can opt out of tracking on iOS when prompted.
 
 ## Contact
-If you have questions about this policy, contact:
-- Email: support@discotto.com
+If you have questions about this policy, or need support, contact:
+- Email: chris@discotto.com
 
 ## Changes
 We may update this policy from time to time. Updates will be posted in the App and on our website.
