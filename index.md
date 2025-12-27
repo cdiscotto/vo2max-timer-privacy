@@ -31,7 +31,7 @@ Their data practices are governed by their own privacy policies.
 
 ## Contact
 If you have questions about this policy, contact:
-- Email: support@yourdomain.com
+- Email: support@discotto.com
 
 ## Changes
 We may update this policy from time to time. Updates will be posted in the App and on our website.
